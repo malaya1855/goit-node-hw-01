@@ -1,2 +1,3 @@
 # goit-node-hw-01
-created with node.jd
+created with Node.js
+# Screenshots
